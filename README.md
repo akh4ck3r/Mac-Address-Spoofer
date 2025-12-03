@@ -4,6 +4,6 @@ After restart system, mac address will reset in original mac address.
 
 # Use
 sudo python macspoofer.py
-#or
+#OR
 sudo python3 macspoofer.py
 
