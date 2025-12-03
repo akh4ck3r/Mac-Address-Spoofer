@@ -2,7 +2,7 @@
 The Python tool to temporarily change (spoof) your MAC address for privacy, testing, and network troubleshooting.
 After restart system, mac address will reset in original mac address.
 
-#Use
+# Use
 sudo python macspoofer.py
 or
 sudo python3 macspoofer.py
